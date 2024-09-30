@@ -7,7 +7,7 @@ Some useful commands
 ## Setup
 
 ```bash
-git [clone https://github.com/tswarmLCCC/AIXX_Rag_EssayGrade](https://github.com/tswarmLCCC/Project-Template).git
+git clone https://github.com/tswarmLCCC/AIXX_Rag_EssayGrade.git
 ```
 
 This runs well on Python 3.9.  The requirements can be found in requirements.txt in the root directory.  They can be installed with pip:
