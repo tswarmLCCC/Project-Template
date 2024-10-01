@@ -1,4 +1,4 @@
-# Software Proejct Template
+# Software Project Template
 
 This Template is a boiler plate example of using Github, source and documenation directories, unit tests, and depedencies.  
 
